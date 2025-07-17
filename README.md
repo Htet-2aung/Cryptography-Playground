@@ -3,7 +3,7 @@
 This is a web-based interactive application for exploring various cryptographic algorithms. It provides a user-friendly interface to encrypt, decrypt, and hash text using a selection of classic and modern ciphers and hash functions. This project is built with React and Vite.
 
 
-
+![Demo]('public/Screenshot 2025-07-18 1.19.42 AM.png')
 
 ## Features
 
